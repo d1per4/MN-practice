@@ -38,8 +38,6 @@ public class Main {
             System.out.println(colorListMap.get(color));
         }
 
-
-
     }
 
     public static List<Shape> getCircles(List<Shape> shapes){
